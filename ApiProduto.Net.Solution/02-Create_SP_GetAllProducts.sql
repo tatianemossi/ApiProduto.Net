@@ -1,0 +1,14 @@
+﻿SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE PROCEDURE [dbo].[GetAllProducts] 
+AS
+BEGIN
+	SET NOCOUNT ON;
+
+	SELECT Id, CreatedAt, Name, Price, Brand, UpdateAt FROM Product
+END
+GO

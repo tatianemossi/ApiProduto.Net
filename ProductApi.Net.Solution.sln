@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductApi.Net.Domain", "ApiProduto.Net.Dominio\ProductApi.Net.Domain.csproj", "{8BAB1BEF-111A-479D-B7CB-65A6ABB33FFF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductApi.Net.Domain", "ProductApi.Net.Dominio\ProductApi.Net.Domain.csproj", "{8BAB1BEF-111A-479D-B7CB-65A6ABB33FFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductApi.Net.Infra", "ApiProduto.Net.Infra\ProductApi.Net.Infra.csproj", "{076FEF7E-BBDA-4AF8-811E-9E6B8BE161DD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductApi.Net.Infra", "ProductApi.Net.Infra\ProductApi.Net.Infra.csproj", "{076FEF7E-BBDA-4AF8-811E-9E6B8BE161DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductApi.Net.Api", "ApiProduct.Net.Api\ProductApi.Net.Api.csproj", "{045A6EDA-643A-4849-9E61-E6851CC73343}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductApi.Net.Api", "ProductApi.Net.Api\ProductApi.Net.Api.csproj", "{045A6EDA-643A-4849-9E61-E6851CC73343}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8DD76705-5BCA-4372-86AB-37043988950B}"
 	ProjectSection(SolutionItems) = preProject

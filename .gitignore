@@ -3,10 +3,11 @@
 ################################################################################
 
 /.vs
-/ApiProduto.Net.Solution/.vs
-/ApiProduto.Net.Solution/ApiProduct.Net.Api/bin/Debug/net5.0
-/ApiProduto.Net.Solution/ApiProduct.Net.Api/obj
-/ApiProduto.Net.Solution/ApiProduto.Net.Dominio/bin/Debug/net5.0
-/ApiProduto.Net.Solution/ApiProduto.Net.Dominio/obj
-/ApiProduto.Net.Solution/ApiProduto.Net.Infra/bin/Debug/net5.0
-/ApiProduto.Net.Solution/ApiProduto.Net.Infra/obj
+/.vs
+/ProductApi.Net.Api/bin/Debug/net5.0
+/ProductApi.Net.Api/obj
+/ProductApi.Net.Dominio/bin/Debug/net5.0
+/ProductApi.Net.Dominio/obj
+/ProductApi.Net.Infra/bin/Debug/net5.0
+/ProductApi.Net.Infra/obj
+/ApiProduto.Net.Dominio/obj

@@ -9,8 +9,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ApiProduto.Net.Dominio\ProductApi.Net.Domain.csproj" />
-    <ProjectReference Include="..\ApiProduto.Net.Infra\ProductApi.Net.Infra.csproj" />
+    <ProjectReference Include="..\ProductApi.Net.Dominio\ProductApi.Net.Domain.csproj" />
+    <ProjectReference Include="..\ProductApi.Net.Infra\ProductApi.Net.Infra.csproj" />
   </ItemGroup>
 
 </Project>
